@@ -3,6 +3,10 @@
 
 
 //Multiply
+function multiply (ab) {
+
+  showResult ()  
+}
 
 
 //Substract
